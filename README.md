@@ -7,4 +7,4 @@ Not all papers exist in all formats, so be sure to check all folders for any spe
 
 [Spelling Based Ranked Clustering Algorithm to Clean and Normalize Early Modern European Book Titles](https://github.com/EvanBryer/Academic-Papers/blob/master/PDFs/SPELLING%20BASED%20RANKED%20CLUSTERING%20ALGORITHM%0ATO%20CLEAN%20AND%20NORMALIZE%20EARLY%20MODERN%0AEUROPEAN%20BOOK%20TITLES.pdf): Presented at BIGDACI 2021, DOI pending.
 
-[Spelling Based Ranked Clustering Algorithm to Clean and Normalize Early Modern European Book Titles](https://github.com/EvanBryer/Academic-Papers/blob/master/PDFs/SPELLING%20BASED%20RANKED%20CLUSTERING%20ALGORITHM%0ATO%20CLEAN%20AND%20NORMALIZE%20EARLY%20MODERN%0AEUROPEAN%20BOOK%20TITLES.pdf): Published in IADIS International Journal on Computer Science and Information Systems
+[Improvement of Clustering Algorithms by Implementation of Spelling Based Ranking](https://github.com/EvanBryer/Academic-Papers/blob/master/PDFs/IMPROVEMENT%20OF%20CLUSTERING%20ALGORITHMS%20BY%20IMPLEMENTATION%20OF%20SPELLING%20BASED%20RANKING.pdf): Published in IADIS International Journal on Computer Science and Information Systems
